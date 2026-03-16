@@ -2,7 +2,7 @@
 
 This repository accompanies the working paper:
 
-**Hull, I. (2026). _The Behavioural Evaluation Framework for AI Judgement Systems_. Beyond the Average Research Series.**
+**Hull, I. (2026). _A Behavioural Evaluation Framework for AI Judgement Systems_. Beyond the Average Research Series.**
 
 The project explores how AI systems behave when the same evaluative task is repeated under controlled conditions. Rather than focusing only on individual outputs, the framework examines patterns that emerge across repeated executions, internal signals and comparisons between independent systems.
 
