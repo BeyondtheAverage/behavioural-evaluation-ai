@@ -6,7 +6,8 @@ This repository accompanies the working paper:
 
 The project explores how AI systems behave when the same evaluative task is repeated under controlled conditions. Rather than focusing only on individual outputs, the framework examines patterns that emerge across repeated executions, internal signals and comparisons between independent systems.
 
-Feedback and discussion are welcome via GitHub issues or through the Beyond the Average Substack.
+Feedback and discussion are welcome via the Beyond the Average Substack.
+
 ---
 
 # Overview
