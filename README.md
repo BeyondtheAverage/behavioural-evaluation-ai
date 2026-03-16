@@ -1,5 +1,3 @@
-# behavioural-evaluation-ai
-
 # Behavioural Evaluation Framework for AI Judgement Systems
 
 This repository accompanies the working paper:
