@@ -49,6 +49,58 @@ These observations suggest that reliability in AI judgement systems may be bette
 This repository contains materials related to the framework and supporting experiments.
 
 Typical contents may include:
+paper/
+Behavioural_Evaluation_Framework_AI_Judgement_Systems.pdf
 
+experiments/
+notebooks and analysis scripts used in behavioural evaluation experiments
+
+data/
+sample inputs used for evaluation experiments
+
+figures/
+framework diagrams and behavioural pattern illustrations
+
+---
+
+# Framework Summary
+
+The Behavioural Evaluation Framework evaluates AI judgement behaviour using three analytical perspectives:
+Repeated Execution
+↓
+Internal Signals
+↓
+Independent System Comparison
+
+
+---
+
+
+These perspectives help reveal behavioural patterns such as stability, convergence, drift or fragmentation across repeated evaluations.
+
+---
+
+# Citation
+
+If you reference this work, please cite:
+
+Hull, I. (2026).  
+**The Behavioural Evaluation Framework for AI Judgement Systems.**  
+Beyond the Average Research Series.
+
+---
+
+# Author
+
+**Imogen Hull**  
+Independent Researcher – AI Behaviour & Reliability  
+Beyond the Average Research Series
+
+---
+
+# License
+
+This project is released for research and educational use.  
+See the LICENSE file for details.
 
 
