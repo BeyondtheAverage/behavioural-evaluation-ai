@@ -87,7 +87,7 @@ These perspectives help reveal behavioural patterns such as stability, convergen
 If you reference this work, please cite:
 
 Hull, I. (2026).  
-**The Behavioural Evaluation Framework for AI Judgement Systems.**  
+**A Behavioural Evaluation Framework for AI Judgement Systems.**  
 Beyond the Average Research Series.
 
 ---
