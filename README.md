@@ -98,9 +98,9 @@ Beyond the Average Research Series
 
 ---
 
-# License
+# Licence
 
-This project is released for research and educational use.  
+This project is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
+
 See the LICENSE file for details.
-
 
