@@ -1,8 +1,6 @@
 # When a Decision Does Not Resolve  
 ### Non-resolution and Persistent Indeterminacy in AI Judgement Systems  
 
-## Paper Three
-
 This repository accompanies the working paper:
 
 **Hull, I. (2026). _When a Decision Does Not Resolve: Non-resolution and Persistent Indeterminacy in AI Judgement Systems_. Beyond the Average Research Series.**
