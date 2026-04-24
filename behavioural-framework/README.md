@@ -1,5 +1,4 @@
 # Behavioural Evaluation Framework for AI Judgement Systems
-## Paper One
 
 This repository accompanies the working paper:
 
