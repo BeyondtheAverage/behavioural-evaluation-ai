@@ -1,8 +1,6 @@
 # When Judgement Does Not Stay the Same  
 ### Stability and Variation in Repeated AI Evaluation 
 
-## Paper Two
-
 This repository accompanies the working paper:
 
 **Hull, I. (2026). _When Judgement Does Not Stay the Same: Stability and Variation in Repeated AI Evaluation_. Beyond the Average Research Series.**
