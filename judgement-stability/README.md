@@ -1,5 +1,3 @@
-# When Judgement Does Not Stay the Same
-
 # When Judgement Does Not Stay the Same  
 ### Stability and Variation in Repeated AI Evaluation  
 
