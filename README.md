@@ -31,7 +31,7 @@ The framework shifts evaluation from individual outputs to observable behavioura
 
 ---
 
-### 2. Behavioural Studies  
+## 2. Behavioural Studies  
 
 The papers below apply the framework to specific aspects of AI judgement.
 
@@ -45,6 +45,15 @@ Each paper isolates a particular behavioural property observed in repeated evalu
 Examines how AI judgements change under identical conditions.
 
 Finds that variation is not random, but concentrated at decision boundaries where interpretation is required.
+
+---
+
+#### When a Decision Does Not Resolve  
+**Persistent indeterminacy in AI judgement**
+
+Identifies a distinct pattern where judgements remain stable but do not resolve into a definitive classification.
+
+Shows that stability alone does not imply a usable decision.
 
 ---
 
@@ -63,15 +72,11 @@ Shows that consistent reasoning cannot be assumed from a single explanation.
 Examines how confidence behaves across repeated evaluation.
 
 Finds that confidence does not reliably track stability or correctness, and should be interpreted as a behavioural signal rather than proof of reliability.
+### 2. Behavioural Studies  
 
----
+The papers below apply the framework to specific aspects of AI judgement.
 
-#### When a Decision Does Not Resolve  
-**Persistent indeterminacy in AI judgement**
-
-Identifies a distinct pattern where judgements remain stable but do not resolve into a definitive classification.
-
-Shows that stability alone does not imply a usable decision.
+Each paper isolates a particular behavioural property observed in repeated evaluation.
 
 ---
 
